@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "authModule",
+    "slug": "authModule",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "authModule"
+}
